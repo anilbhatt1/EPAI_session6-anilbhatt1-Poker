@@ -40,4 +40,34 @@
     create_deck
     call_lambda
     winner
+    
+## Results
+~~~test_session6.py::test_flush_20 PASSED                                   [ 48%]
+test_session6.py::test_straight_21 PASSED                                [ 51%]
+test_session6.py::test_straight_22 PASSED                                [ 53%]
+test_session6.py::test_straight_23 PASSED                                [ 55%]
+test_session6.py::test_straight_24 PASSED                                [ 57%]
+test_session6.py::test_straight_25 PASSED                                [ 59%]
+test_session6.py::test_straight_26 PASSED                                [ 61%]
+test_session6.py::test_three_of_a_kind_27 PASSED                         [ 63%]
+test_session6.py::test_three_of_a_kind_28 PASSED                         [ 65%]
+test_session6.py::test_three_of_a_kind_29 PASSED                         [ 67%]
+test_session6.py::test_three_of_a_kind_30 PASSED                         [ 69%]
+test_session6.py::test_two_pair_31 PASSED                                [ 71%]
+test_session6.py::test_two_pair_32 PASSED                                [ 73%]
+test_session6.py::test_two_pair_33 PASSED                                [ 75%]
+test_session6.py::test_two_pair_34 PASSED                                [ 77%]
+test_session6.py::test_one_pair_35 PASSED                                [ 79%]
+test_session6.py::test_one_pair_36 PASSED                                [ 81%]
+test_session6.py::test_one_pair_37 PASSED                                [ 83%]
+test_session6.py::test_one_pair_38 PASSED                                [ 85%]
+test_session6.py::test_one_pair_39 PASSED                                [ 87%]
+test_session6.py::test_equal_hand_40 PASSED                              [ 89%]
+test_session6.py::test_more_than_5_cards_41 PASSED                       [ 91%]
+test_session6.py::test_less_than_3_cards_42 PASSED                       [ 93%]
+test_session6.py::test_duplicate_cards_in_hands_43 PASSED                [ 95%]
+test_session6.py::test_deck_creation_normal_function_44 PASSED           [ 97%]
+test_session6.py::test_deck_creation_lambda_function_45 PASSED           [100%]
+
+============================== 49 passed in 0.09s ==============================~~~
 	
